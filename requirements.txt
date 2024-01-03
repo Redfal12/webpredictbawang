@@ -3,7 +3,7 @@ numpy
 keras.models
 flask
 tensorflow
-sklearn
+scikit-learn
 pandas
 numpy
 datetime
